@@ -1,14 +1,14 @@
 # 📘 fr-tim.github.io
 
 **Site web personnel créé dans le cadre du cours de NSI**  
-Ce dépôt contient mon site web statique hébergé avec **GitHub Pages**, présentant mes projets, mon parcours et des informations sur le métier de pentester. :contentReference[oaicite:1]{index=1}
+Ce dépôt contient mon site web statique hébergé avec **GitHub Pages**, présentant mes projets, mon parcours et des informations sur le métier de pentester.
 
 ---
 
 ## 🔗 Accès en ligne
 
 🌐 **Version en ligne du site :**  
-https://fr-tim.github.io :contentReference[oaicite:2]{index=2}
+https://fr-tim.github.io
 
 ---
 
@@ -35,7 +35,7 @@ Ce site a été développé avec :
 
 - **HTML** : structure des pages  
 - **CSS** : mise en forme et design  
-- **JavaScript** : interactions et animations :contentReference[oaicite:3]{index=3}
+- **JavaScript** : interactions et animations
 
 ---
 
@@ -45,13 +45,13 @@ L’objectif de ce projet est :
 
 1. de **présenter mes intérêts dans la cybersécurité**,  
 2. de **démontrer mes connaissances en HTML, CSS et JS**,  
-3. et de **créer un site interactif et visuellement attractif** dans le cadre du cours NSI. :contentReference[oaicite:4]{index=4}
+3. et de **créer un site interactif et visuellement attractif** dans le cadre du cours NSI.
 
 ---
 
 ## 📌 À propos de GitHub Pages
 
-Ce dépôt utilise GitHub Pages, une fonctionnalité gratuite de GitHub qui permet d’héberger des sites web statiques directement à partir d’un dépôt GitHub. :contentReference[oaicite:5]{index=5}
+Ce dépôt utilise GitHub Pages, une fonctionnalité gratuite de GitHub qui permet d’héberger des sites web statiques directement à partir d’un dépôt GitHub.
 
 ---
 
